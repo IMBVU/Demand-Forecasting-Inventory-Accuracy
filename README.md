@@ -18,4 +18,5 @@ This project analyzes **inventory demand forecasting accuracy** using the Kaggle
 - `data_processed/forecast_accuracy_by_category.csv`
 - Forecast accuracy charts in `figures/`
 
-Generated: 2026-01-15
+Tableau Public: https://public.tableau.com/views/P3_17685028676160/P3DemandTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
